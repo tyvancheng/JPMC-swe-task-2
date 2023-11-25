@@ -23,6 +23,8 @@ from random import normalvariate, random
 from datetime import timedelta, datetime
 
 import csv
+import sys
+sys.path.append("/Users/Tyvan/anaconda3/lib/python3.11/site-packages")
 import dateutil.parser
 import os.path
 
